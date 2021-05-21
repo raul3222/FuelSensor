@@ -1,0 +1,4 @@
+Name: COM18
+BaudRate: 19200
+Interval1: 30
+Interval2: 100

@@ -1,0 +1,81 @@
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\test1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\test1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\test1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\this\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Новая папка\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Новая папка\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Новая папка\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\this\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iluha\Documents\Visual Studio 2010\Projects\last project dut\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\last project dut\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\last project dut\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\last project dut\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\last project dut1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\last project dut1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\last project dut1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
